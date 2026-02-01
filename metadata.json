@@ -1,0 +1,7 @@
+{
+  "name": "GloboTrack Travel Planner",
+  "description": "An AI-powered multi-modal travel planning application that suggests optimal routes across flights, trains, and buses with real-time AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
